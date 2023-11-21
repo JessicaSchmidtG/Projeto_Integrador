@@ -1,0 +1,3221 @@
+/* Login Aluno */
+.LoginAluno{
+    width: 1440px; 
+    height: 1024px; 
+    position: relative; 
+    background: rgb(48, 31, 31)"
+}
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background: #008565;
+
+
+/* Área do Aluno */
+
+position: absolute;
+width: 555px;
+height: 75px;
+left: calc(50% - 555px/2 + 0.5px);
+top: 31px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* E-mail / CPF */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 277px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Component 2 */
+
+position: absolute;
+width: 684px;
+height: 104px;
+left: 65px;
+top: 846px;
+
+
+
+/* Esqueci minha senha */
+
+position: absolute;
+left: 0%;
+right: 1.32%;
+top: 0%;
+bottom: 55.77%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Primeiro acesso? Cadastre-se aqui! */
+
+position: absolute;
+left: 1.32%;
+right: 0%;
+top: 55.77%;
+bottom: 0%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 5 */
+
+position: absolute;
+width: 327px;
+height: 164px;
+left: 1162px;
+top: -8px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 14.98%;
+right: 14.98%;
+top: 0%;
+bottom: 0%;
+
+background: #A86767;
+
+
+/* Entrar como Professor */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 32.93%;
+bottom: 39.02%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Login */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 125px;
+top: 193px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 4 */
+
+position: absolute;
+width: 555px;
+height: 78px;
+left: 125px;
+top: 542px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+left: 18.38%;
+right: 18.2%;
+top: 0%;
+bottom: 0%;
+
+background: #008565;
+
+
+/* Entrar */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 19.23%;
+bottom: 21.79%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 394px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 323px;
+
+background: #D9D9D9;
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 441px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 440px;
+
+background: #D9D9D9;
+
+
+/* um-homem-usando-mascaras-esta-sentado-lendo-um-livro-na-biblioteca 1 */
+
+position: absolute;
+width: 1124px;
+height: 886px;
+left: 810px;
+top: 138px;
+
+background: url(volta-ao-conceito-de-escola-com-mulher-estudando-na-biblioteca.jpg);
+
+
+/* image 1 */
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 35px;
+top: 24px;
+
+background: url(image.png);
+
+
+/* Cadastro Aluno */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background: #008565;
+
+
+/* Área do Aluno */
+
+position: absolute;
+width: 555px;
+height: 75px;
+left: calc(50% - 555px/2 + 0.5px);
+top: 31px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Nome Completo */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 277px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Component 2 */
+
+position: absolute;
+width: 455px;
+height: 104px;
+left: 884px;
+top: 580px;
+
+
+
+/* Esqueci minha senha */
+
+position: absolute;
+left: 0%;
+right: 1.32%;
+top: 0%;
+bottom: 55.77%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Primeiro acesso? Cadastre-se aqui! */
+
+position: absolute;
+visibility: hidden;
+left: 1.32%;
+right: 0%;
+top: 55.77%;
+bottom: 0%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 8 */
+
+position: absolute;
+width: 327px;
+height: 146px;
+left: 1162px;
+top: -8px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 14.98%;
+right: 14.98%;
+top: 0%;
+bottom: 0%;
+
+background: #A86767;
+
+
+/* Entrar como Professor */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 36.99%;
+bottom: 31.51%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Cadastre-se */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 125px;
+top: 193px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 3 */
+
+position: absolute;
+width: 555px;
+height: 78px;
+left: 834px;
+top: 483px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+left: 18.38%;
+right: 18.2%;
+top: 0%;
+bottom: 0%;
+
+background: #008565;
+
+
+/* Cadastrar */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 19.23%;
+bottom: 21.79%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Data de Nascimento */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 394px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 323px;
+
+background: #D9D9D9;
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 441px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 440px;
+
+background: #D9D9D9;
+
+
+/* E-mail */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 512px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 559px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 558px;
+
+background: #D9D9D9;
+
+
+/* CPF */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 630px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 677px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 676px;
+
+background: #D9D9D9;
+
+
+/* RG */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 748px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 795px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 794px;
+
+background: #D9D9D9;
+
+
+/* Matrícula */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 866px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 913px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 912px;
+
+background: #D9D9D9;
+
+
+/* Esqueci minha senha Aluno */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 1440px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background: #008565;
+
+
+/* Área do Aluno */
+
+position: absolute;
+width: 555px;
+height: 75px;
+left: calc(50% - 555px/2 + 0.5px);
+top: 31px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 352px;
+height: 78px;
+left: 545px;
+top: 647px;
+
+background: #008565;
+
+
+/* Digite seu e-mail cadastrado */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 383px;
+top: 382px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Ao clicar em “Enviar”, encaminharemos novas instruções de acesso para sua caixa de e-mail. */
+
+position: absolute;
+width: 704px;
+height: 46px;
+left: 369px;
+top: 533px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Esqueci minha senha */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 443px;
+top: 268px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Entrar */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 443px;
+top: 662px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 383px;
+top: 428px;
+
+background: #D9D9D9;
+
+
+/* Component 6 */
+
+position: absolute;
+width: 327px;
+height: 138px;
+left: 1167px;
+top: 0px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+left: 14.98%;
+right: 14.98%;
+top: 0%;
+bottom: 0%;
+
+background: #A86767;
+
+
+/* Entrar como Professor */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 33.33%;
+bottom: 33.33%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Component 1 */
+
+position: absolute;
+width: 684px;
+height: 104px;
+left: 378px;
+top: 846px;
+
+
+
+/* Retornar ao Login */
+
+position: absolute;
+left: 0%;
+right: 1.32%;
+top: 0%;
+bottom: 55.77%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Primeiro acesso? Cadastre-se aqui! */
+
+position: absolute;
+left: 1.32%;
+right: 0%;
+top: 55.77%;
+bottom: 0%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Login Professor */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background: #A86767;
+
+
+/* image 1 */
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 35px;
+top: 24px;
+
+background: url(image.png);
+
+
+/* Área do Professor */
+
+position: absolute;
+width: 555px;
+height: 75px;
+left: calc(50% - 555px/2 + 0.5px);
+top: 31px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Código de Professor */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 277px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Component 2 */
+
+position: absolute;
+width: 684px;
+height: 104px;
+left: 65px;
+top: 846px;
+
+
+
+/* Esqueci minha senha */
+
+position: absolute;
+left: 0%;
+right: 1.32%;
+top: 0%;
+bottom: 55.77%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Primeiro acesso? Cadastre-se aqui! */
+
+position: absolute;
+left: 1.32%;
+right: 0%;
+top: 55.77%;
+bottom: 0%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 9 */
+
+position: absolute;
+width: 327px;
+height: 164px;
+left: 1162px;
+top: -8px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 14.98%;
+right: 4.89%;
+top: 0%;
+bottom: 0%;
+
+background: #008565;
+
+
+/* Entrar como Aluno */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 32.93%;
+bottom: 39.02%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Login */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 125px;
+top: 193px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 13 */
+
+position: absolute;
+width: 555px;
+height: 78px;
+left: 125px;
+top: 542px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+left: 18.38%;
+right: 18.2%;
+top: 0%;
+bottom: 0%;
+
+background: #A86767;
+
+
+/* Entrar */
+
+position: absolute;
+left: 18.38%;
+right: 18.2%;
+top: 19.23%;
+bottom: 21.79%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 394px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 323px;
+
+background: #D9D9D9;
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 441px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 440px;
+
+background: #D9D9D9;
+
+
+/* um-homem-usando-mascaras-esta-sentado-lendo-um-livro-na-biblioteca 1 */
+
+position: absolute;
+width: 1124px;
+height: 886px;
+left: 810px;
+top: 138px;
+
+background: url(jovem-de-tiro-medio-ensinando-matematica.jpg);
+
+
+/* Esqueci minha senha Professor */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 1440px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background: #A86767;
+
+
+/* Área do Professor */
+
+position: absolute;
+width: 555px;
+height: 75px;
+left: calc(50% - 555px/2 + 0.5px);
+top: 31px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Digite seu e-mail cadastrado */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 383px;
+top: 382px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Ao clicar em “Enviar”, encaminharemos novas instruções de acesso para sua caixa de e-mail. */
+
+position: absolute;
+width: 704px;
+height: 46px;
+left: 369px;
+top: 533px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Esqueci minha senha */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 443px;
+top: 268px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 12 */
+
+position: absolute;
+width: 555px;
+height: 78px;
+left: 443px;
+top: 647px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+left: 18.38%;
+right: 18.2%;
+top: 0%;
+bottom: 0%;
+
+background: #A86767;
+
+
+/* Entrar */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 19.23%;
+bottom: 21.79%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 383px;
+top: 428px;
+
+background: #D9D9D9;
+
+
+/* Component 1 */
+
+position: absolute;
+width: 684px;
+height: 104px;
+left: 378px;
+top: 846px;
+
+
+
+/* Retornar ao Login */
+
+position: absolute;
+left: 0%;
+right: 1.32%;
+top: 0%;
+bottom: 55.77%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Primeiro acesso? Cadastre-se aqui! */
+
+position: absolute;
+left: 1.32%;
+right: 0%;
+top: 55.77%;
+bottom: 0%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 10 */
+
+position: absolute;
+width: 327px;
+height: 138px;
+left: 1167px;
+top: 0px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+left: 14.98%;
+right: 14.98%;
+top: 0%;
+bottom: 0%;
+
+background: #008565;
+
+
+/* Entrar como Aluno */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 33.33%;
+bottom: 33.33%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Cadastro Professor */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background: #A86767;
+
+
+/* Área do Professor */
+
+position: absolute;
+width: 555px;
+height: 75px;
+left: calc(50% - 555px/2 + 0.5px);
+top: 31px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Nome Completo */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 277px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Component 2 */
+
+position: absolute;
+width: 455px;
+height: 104px;
+left: 884px;
+top: 580px;
+
+
+
+/* Esqueci minha senha */
+
+position: absolute;
+left: 0%;
+right: 1.32%;
+top: 0%;
+bottom: 55.77%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Primeiro acesso? Cadastre-se aqui! */
+
+position: absolute;
+visibility: hidden;
+left: 1.32%;
+right: 0%;
+top: 55.77%;
+bottom: 0%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 11 */
+
+position: absolute;
+width: 327px;
+height: 146px;
+left: 1162px;
+top: -8px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 14.98%;
+right: 14.98%;
+top: 0%;
+bottom: 0%;
+
+background: #008565;
+
+
+/* Entrar como Aluno */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 36.99%;
+bottom: 31.51%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Cadastre-se */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 125px;
+top: 193px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 3 */
+
+position: absolute;
+width: 555px;
+height: 78px;
+left: 834px;
+top: 483px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+left: 18.38%;
+right: 18.2%;
+top: 0%;
+bottom: 0%;
+
+background: #A86767;
+
+
+/* Cadastrar */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 19.23%;
+bottom: 21.79%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Data de Nascimento */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 394px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 323px;
+
+background: #D9D9D9;
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 441px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 440px;
+
+background: #D9D9D9;
+
+
+/* E-mail */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 512px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 559px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 558px;
+
+background: #D9D9D9;
+
+
+/* CPF */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 630px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 677px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 676px;
+
+background: #D9D9D9;
+
+
+/* RG */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 748px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 795px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 794px;
+
+background: #D9D9D9;
+
+
+/* Código Professor */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 65px;
+top: 865px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 42px;
+left: 65px;
+top: 912px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* identical to box height, or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 65px;
+top: 911px;
+
+background: #D9D9D9;
+
+
+/* Ambiente logado Professor */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background: #A86767;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 514px;
+height: 886px;
+left: 0px;
+top: 138px;
+
+background: #008565;
+
+
+/* Atualizar cadastro */
+
+position: absolute;
+width: 451px;
+height: 49px;
+left: 28px;
+top: 163px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+
+color: #FFFFFF;
+
+
+
+/* Lançamento de Notas */
+
+position: absolute;
+width: 451px;
+height: 49px;
+left: 28px;
+top: 237px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+
+color: #FFFFFF;
+
+
+
+/* Acessar Ambiente de Aprendizagem */
+
+position: absolute;
+width: 451px;
+height: 116px;
+left: 28px;
+top: 310px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+
+color: #FFFFFF;
+
+
+
+/* Acessar Ambiente de Avaliação */
+
+position: absolute;
+width: 451px;
+height: 116px;
+left: 28px;
+top: 450px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+
+color: #FFFFFF;
+
+
+
+/* Bem-vindo, Professor! */
+
+position: absolute;
+width: 555px;
+height: 75px;
+left: calc(50% - 555px/2 + 0.5px);
+top: 31px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Component 7 */
+
+position: absolute;
+width: 327px;
+height: 146px;
+left: 1162px;
+top: -8px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 14.98%;
+right: 14.98%;
+top: 0%;
+bottom: 0%;
+
+background: #008565;
+
+
+/* Sair */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 36.99%;
+bottom: 31.51%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Quadro de avisos */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 720px;
+top: 166px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Matrículas abertas para 2024! */
+
+position: absolute;
+width: 831px;
+height: 46px;
+left: 542px;
+top: 352px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 675px;
+height: 10px;
+left: 660px;
+top: 240px;
+
+background: #D9D9D9;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id hendrerit nibh, ac semper ipsum. Curabitur molestie consequat finibus. Duis tristique mi ac urna ornare, sed euismod velit viverra. Aenean ut pulvinar metus. */
+
+position: absolute;
+width: 878px;
+height: 188px;
+left: 542px;
+top: 823px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* jovem-adulto-sorrindo-enquanto-com-amigos 1 */
+
+position: absolute;
+width: 623px;
+height: 371px;
+left: 660px;
+top: 438px;
+
+background: url(jovem-adulto-sorrindo-enquanto-com-amigos.jpg);
+
+
+/* Login Fornecedor Sistema */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background: #6789A8;
+
+
+/* Fornecedor - Sistema */
+
+position: absolute;
+width: 555px;
+height: 75px;
+left: calc(50% - 555px/2 + 0.5px);
+top: 31px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Usuário */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 383px;
+top: 382px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Login */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 443px;
+top: 298px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Component 13 */
+
+position: absolute;
+width: 555px;
+height: 78px;
+left: 443px;
+top: 647px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+left: 18.38%;
+right: 18.2%;
+top: 0%;
+bottom: 0%;
+
+background: #6789A8;
+
+
+/* Entrar */
+
+position: absolute;
+left: 18.38%;
+right: 18.2%;
+top: 19.23%;
+bottom: 21.79%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Chave de Acesso */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 383px;
+top: 499px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 383px;
+top: 428px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 675px;
+height: 56px;
+left: 383px;
+top: 545px;
+
+background: #D9D9D9;
+
+
+/* Área Logada Fornecedor Sistema */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background: #6789A8;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 514px;
+height: 886px;
+left: 0px;
+top: 138px;
+
+background: #787878;
+
+
+/* Manutenção de Sistema */
+
+position: absolute;
+width: 451px;
+height: 49px;
+left: 28px;
+top: 163px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+
+color: #FFFFFF;
+
+
+
+/* Gestão de Cadastros */
+
+position: absolute;
+width: 451px;
+height: 49px;
+left: 28px;
+top: 237px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+
+color: #FFFFFF;
+
+
+
+/* Bem-vindo! */
+
+position: absolute;
+width: 555px;
+height: 75px;
+left: calc(50% - 555px/2 + 0.5px);
+top: 31px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Component 7 */
+
+position: absolute;
+width: 327px;
+height: 146px;
+left: 1162px;
+top: -8px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 14.98%;
+right: 14.98%;
+top: 0%;
+bottom: 0%;
+
+background: #787878;
+
+
+/* Sair */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 36.99%;
+bottom: 31.51%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Gestão Cadastros Fornecedor Sistema */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 138px;
+left: 0px;
+top: 0px;
+
+background: #6789A8;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 514px;
+height: 886px;
+left: 0px;
+top: 138px;
+
+background: #787878;
+
+
+/* Manutenção de Sistema */
+
+position: absolute;
+width: 451px;
+height: 49px;
+left: 28px;
+top: 163px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+
+color: #FFFFFF;
+
+
+
+/* Gestão de Cadastros */
+
+position: absolute;
+width: 451px;
+height: 49px;
+left: 28px;
+top: 237px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+
+color: #FFFFFF;
+
+
+
+/* Bem-vindo! */
+
+position: absolute;
+width: 555px;
+height: 75px;
+left: calc(50% - 555px/2 + 0.5px);
+top: 31px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Component 7 */
+
+position: absolute;
+width: 327px;
+height: 146px;
+left: 1162px;
+top: -8px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 14.98%;
+right: 14.98%;
+top: 0%;
+bottom: 0%;
+
+background: #787878;
+
+
+/* Sair */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 36.99%;
+bottom: 31.51%;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Gestão de Cadastros */
+
+position: absolute;
+width: 555px;
+height: 46px;
+left: 720px;
+top: 166px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Nome Completo */
+
+position: absolute;
+width: 555px;
+height: 39px;
+left: 577px;
+top: 360px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Data de Nascimento */
+
+position: absolute;
+width: 555px;
+height: 39px;
+left: 577px;
+top: 458px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 675px;
+height: 46px;
+left: 577px;
+top: 399px;
+
+background: #D9D9D9;
+
+
+/* Tipo de Cadastro */
+
+position: absolute;
+width: 555px;
+height: 39px;
+left: 577px;
+top: 262px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Consultar Banco de Dados */
+
+position: absolute;
+width: 309px;
+height: 39px;
+left: 577px;
+top: 963px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Inserir Novo Usuário */
+
+position: absolute;
+width: 281px;
+height: 39px;
+left: 1132px;
+top: 963px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 675px;
+height: 46px;
+left: 577px;
+top: 301px;
+
+background: #D9D9D9;
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 36px;
+left: 577px;
+top: 497px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 675px;
+height: 46px;
+left: 577px;
+top: 497px;
+
+background: #D9D9D9;
+
+
+/* E-mail */
+
+position: absolute;
+width: 555px;
+height: 38px;
+left: 577px;
+top: 557px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 35px;
+left: 577px;
+top: 596px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 675px;
+height: 47px;
+left: 577px;
+top: 595px;
+
+background: #D9D9D9;
+
+
+/* CPF */
+
+position: absolute;
+width: 555px;
+height: 38px;
+left: 577px;
+top: 656px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 35px;
+left: 577px;
+top: 695px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 675px;
+height: 47px;
+left: 577px;
+top: 694px;
+
+background: #D9D9D9;
+
+
+/* RG */
+
+position: absolute;
+width: 555px;
+height: 38px;
+left: 577px;
+top: 755px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 35px;
+left: 577px;
+top: 794px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 675px;
+height: 47px;
+left: 577px;
+top: 793px;
+
+background: #D9D9D9;
+
+
+/* Código Professor */
+
+position: absolute;
+width: 555px;
+height: 38px;
+left: 577px;
+top: 853px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 555px;
+height: 35px;
+left: 577px;
+top: 892px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 130%;
+/* or 42px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 675px;
+height: 47px;
+left: 577px;
+top: 891px;
+
+background: #D9D9D9;
